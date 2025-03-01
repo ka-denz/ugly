@@ -10,3 +10,7 @@ body{
     font-family: Rubik Moonrocks;
     font-size: 60px;
 }
+
+img{
+    outline: 10px yellowgreen;
+}
